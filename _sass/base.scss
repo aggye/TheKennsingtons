@@ -16,28 +16,34 @@ html, body, h1, h2, h3, h4, h5, h6, p, ul, ol, li, img {
   border: 0;
 }
 
+
 /*- Base color -*/
 
 $main-color: #0d0e0d;
-$background-color: #9B9998;
+$background-color: #fff;;
 $text-color: #ea1111;
+$kensington-red: #b11715;
+$kensington-grey: #abac9e;
+$other-red: #b01715;
 
 /*- Base settings -*/
 
+
+h2 {
+    color: $other-red;
+}
 html {
-	background-color: $background-color;
 	font-size: 16px;
 	@media (min-width: 940px) {
 		font-size: 18px;
 	}
 	line-height: 1.5;
-	color: $text-color;
 }
 
 
 /*- Link -*/
 a {
-	color: $main-color;
+	color: black;
 	text-decoration: none;
 	font-weight: 700;
 	&:hover,

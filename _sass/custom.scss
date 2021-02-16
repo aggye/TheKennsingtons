@@ -1,3 +1,14 @@
 /*- Custom style -*/
 
 // -- Put custom style under this point -- //
+.kensington-header {
+    color: $kensington-red;
+    font-size: 21px;
+    position: relative;
+    top: -12px;
+}
+
+.homepage-blurb {
+    text-align: justify;
+    line-height: 30px;
+}
