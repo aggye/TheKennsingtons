@@ -34,7 +34,8 @@ a {
 
 /*- Typography -*/
 body {
-  font-family: "Times New Roman", Times, serif;
+  /* font-family: "Times New Roman", Times, serif; */
+  font-family: 'Shippori Mincho B1', serif;
   letter-spacing: 0.01em; }
 
 /*- Typography for medium and small screen, based on 16px font-size -*/
@@ -338,16 +339,6 @@ html, body {
     max-height: 140px;
     display: inline;
     margin: 0; }
-  #header h1 {
-    font-family: "Times New Roman", Times, serif;
-    font-weight: 600; }
-  #header:after {
-    display: block;
-    content: '';
-    width: 5rem;
-    height: 1px;
-    margin: 0 auto;
-    background-color: white; }
 
 /* Posts */
 #posts li {
@@ -727,3 +718,13 @@ footer {
 .homepage-blurb {
   text-align: justify;
   line-height: 30px; }
+.icon {
+  padding-left: 30px;
+  background-repeat: no-repeat;
+  background-size: 25px auto; }
+
+.tel-icon {
+  background-image: url(/img/mobile_icon.svg); }
+
+.email-icon {
+  background-image: url("/img/email_icon.svg"); }
