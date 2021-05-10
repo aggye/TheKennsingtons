@@ -13,7 +13,7 @@ title: Membership
     PLKRA Honorary Secretary<br>
     Mr Stephen Bland<br>
     222 Wickham Road Croydon CR9 8BJ UK<br>
-    <div class="icon email-icon">blands@blueyonder.co.uk</div>
+    <div class="icon email-icon"><a href="mailto:blands@blueyonder.co.uk">blands@blueyonder.co.uk</a></div>
     <div class="icon tel-icon">020 8656 9740</div>
 </p>
 

@@ -1,6 +1,5 @@
 ---
 layout: page
-title: PKLA Regalia
+title: What we do
 ---
-This facility to be established within the site pagination and to be the subject for future discussion.
-Ties / CD 's / Books / Prints.
+Princess Louise's Kensington Regimental Association (PLKRA) is unique in that it was founded before the start of the Great War in May 1914 and for over 100 years has provided its members with the comradeship they enjoyed whilst serving in the Regiment. The Association maintains strong links with the current Regiment and affiliated Divisional Associations.                                                                              PLKRA also host dinners and social events connected to Regimental anniversaries with annual visits to Ypres and Le Havre together with the annual Remembrance Service held in November at Kensington Town Hall. The Association also publishes the journal 'The Kensington' while also looking after the PLKR archive which is housed in the Display Room at ARC Headquarters Coulsdon.
