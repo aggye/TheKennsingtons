@@ -725,10 +725,10 @@ footer {
   background-size: 25px auto; }
 
 .tel-icon {
-  background-image: url(/img/mobile_icon.svg); }
+  background-image: url("/PLK/img/mobile_icon.svg"); }
 
 .email-icon {
-  background-image: url("/img/email_icon.svg"); }
+  background-image: url("/PLK/img/email_icon.svg"); }
 
 .committee-header {
   font-weight: bold;
