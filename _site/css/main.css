@@ -729,3 +729,7 @@ footer {
 
 .email-icon {
   background-image: url("/img/email_icon.svg"); }
+
+.committee-header {
+  font-weight: bold;
+  margin-top: 30px; }
