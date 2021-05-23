@@ -38,10 +38,10 @@ title: Committee
 </table>
 
 <div class="committee-header">Management Committee</div>
-<div>Mr R.M Tattle</div>
 <div>Chairman: Maj (Retd) R G Simpson TD</div>
 <div>Vice Chairman: Maj J C Allan TD</div>
 <div>Officer Commanding 31 (MY and PLK) Signal Squadron</div>
+<div>Mr R.M Tattle</div>
 <div>Mr M Byrne</div>
 <div>Mr P Lovett</div>
 <div>Mr R Watson</div>
