@@ -7,6 +7,9 @@ title: Committee
 <div class="committee-header">Patrons</div>
 <div>All ex-Commanding Officers</div>
 
+<div class="committee-header">President</div>
+<div>Brig John Kendall</div>
+
 <div class="committee-header">Vice Presidents</div>
 <div>Lt Col (Retd) L G French RS</div>
 <div>Maj (Retd) J C  Allan TD</div>
@@ -35,25 +38,48 @@ title: Committee
 </table>
 
 <div class="committee-header">Management Committee</div>
-<div>Chairman: Maj (Retd) R C Simpson TD</div>
+<div>Mr R.M Tattle</div>
+<div>Chairman: Maj (Retd) R G Simpson TD</div>
 <div>Vice Chairman: Maj J C Allan TD</div>
-<div>Officer Commanding 31 (My and PLK) Signal Squadron</div>
+<div>Officer Commanding 31 (MY and PLK) Signal Squadron</div>
 <div>Mr M Byrne</div>
 <div>Mr P Lovett</div>
 <div>Mr R Watson</div>
 <div>Mr I North</div>
 
-<div class="committee-header">Hon Secretary</div>
-<div>Mr S M Bland</div>
+<table>
+<tr>
+<td>
+  <center>
+  <div class="committee-header">Hon Secretary</div>
+  <div>Mr S M Bland</div>
+  </center>
+</td>
 
+<td>
+<center>
 <div class="committee-header">Hon Treasurer</div>
 <div>Maj (Retd) J G D Mill TD CA</div>
+</center>
+</td>
+</tr>
 
+<tr>
+<td>
+<center>
 <div class="committee-header">Troop Representative</div>
 <div>Cpl R Young</div>
+</center>
+</td>
 
+<td>
+<center>
 <div class="committee-header">Social Activities Secretary</div>
 <div>Mr S M Bland</div>
+</center>
+</td>
+</tr>
+</table>
 
 <div class="committee-header">Offices</div>
 <div>Army Reserve Centre</div>
