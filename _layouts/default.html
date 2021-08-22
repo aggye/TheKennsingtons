@@ -16,16 +16,30 @@
     {% include header.html %}
     {% endif %}
   <!-- Main content -->
-    <div id="borderControl">
-      <div id="content">
-        <div id="container">
-          <main>{{ content }}</main></div>
-        </div>
+  <div class="clearfix three-cols" >
+      <div class="" id="borderControl">
+        <div id="content">
+          <div id="container">
+            <main>{{ content }}</main></div>
+          </div>
+      </div>
+
+    <div class="hide sidebars" id="left-sidebar">
+      <img src="{{ "/img/rsigs_cap_badge.png" | prepend: site.baseurl | replace:
+      '//', '/' }}" alt="Royal Signals Cap Badge" width="120"/>
     </div>
+
+    <div class="hide sidebars" id="right-sidebar">
+      <img src="{{ "/img/plklogo.png" | prepend: site.baseurl | replace:
+      '//', '/' }}" alt="PLK" width="120"/>
+    </div>
+  </div>
     <!-- Footer -->
     {% include footer.html %}
     <!-- Script -->
     {% include script.html %}
+
   </div><!--/wrap-->
+
 </body>
 </html>

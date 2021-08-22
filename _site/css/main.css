@@ -328,9 +328,9 @@ html, body {
   background-color: #abac9e;
   background: linear-gradient(180deg, #abac9e 0%, white 100%);
   text-align: center;
-  padding: 24px 0;
+  padding: 24px 0 72px 0;
   position: relative;
-  margin: 0 0 40px 0; }
+  margin: 0 0 -35px 0; }
   #header a {
     text-decoration: none;
     color: #b01715;
@@ -442,7 +442,7 @@ footer {
 
 .footer {
   padding: 25px 0;
-  background-color: #abac9e;
+  background: linear-gradient(0deg, #abac9e 0%, white 100%);
   color: #b01715;
   text-align: center;
   position: absolute;
@@ -733,3 +733,33 @@ footer {
 .committee-header {
   font-weight: bold;
   margin-top: 30px; }
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table; }
+
+.fl {
+  float: left; }
+
+.fr {
+  float: right; }
+
+.three-cols {
+  display: table;
+  margin: 0 auto; }
+
+.hide {
+  display: none; }
+
+.sidebars {
+  width: 120px;
+  position: fixed;
+  top: 50vh; }
+
+#left-sidebar {
+  left: 50px; }
+
+#right-sidebar {
+  padding-top: 40px;
+  right: 50px; }

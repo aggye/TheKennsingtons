@@ -39,3 +39,15 @@ function menuClick() {
 }
 
 menuClick();
+
+
+// Functionality for side images
+var winWidth = window.innerWidth;
+var conWidth = document.getElementById("container").offsetWidth;
+
+var LOGO_WIDTH = 120;
+
+if (winWidth > (conWidth + LOGO_WIDTH * 2)) {
+	document.getElementById("left-sidebar").style.display = "block";
+	document.getElementById("right-sidebar").style.display = "block";
+}

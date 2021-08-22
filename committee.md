@@ -8,7 +8,7 @@ title: Committee
 <div>All ex-Commanding Officers</div>
 
 <div class="committee-header">President</div>
-<div>Brig John Kendall</div>
+<div>Brig. John Kendall</div>
 
 <div class="committee-header">Vice Presidents</div>
 <div>Lt Col (Retd) L G French RS</div>
@@ -18,7 +18,7 @@ title: Committee
 
 <table border="0">
 <tr>
-  <td>
+  <td style="padding-right: 50px;">
     <center>
     <div class="committee-header">Association Trustees</div>
     <div>Col (Retd) K J Bruce-Smith TD</div>
@@ -49,7 +49,7 @@ title: Committee
 
 <table>
 <tr>
-<td>
+<td style="padding-right: 50px;">
   <center>
   <div class="committee-header">Hon Secretary</div>
   <div>Mr S M Bland</div>
@@ -65,7 +65,7 @@ title: Committee
 </tr>
 
 <tr>
-<td>
+<td style="padding-right: 50px;">
 <center>
 <div class="committee-header">Troop Representative</div>
 <div>Cpl R Young</div>
