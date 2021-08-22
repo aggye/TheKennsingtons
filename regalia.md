@@ -2,5 +2,7 @@
 layout: page
 title: Regalia
 ---
-This facility to be established within the site pagination and to be the subject for future discussion.
-Ties / CD 's / Books / Prints.
+
+This page is currently under construction.
+
+<div>Please visit back or get in touch for any enquiries</div>

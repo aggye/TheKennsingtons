@@ -7,7 +7,7 @@ title: Membership
 <p>By becoming a Member or Friend you will help to keep alive the traditions and history of the Regiment ensuring that the legacy of our forebears is maintained for future generations.</p>
 
 <h3>Subscriptions</h3>
-<p>Annual Membership is £5.00 for full Members and Friends of The Kensingtons. Payment should be made to the PLKRA's account at NatWest Bank plc, Royal Garden Branch 55 Kensington High Street London W8 5EQ: Sort Code 50 - 30 -10: Account Number 03412512.</p>
+<p>Annual Membership is £5.00 for full Members and Friends of The Kensingtons. Payment should be made to the PLKRA's account at NatWest Bank plc, Royal Garden Branch 55 Kensington High Street London W8 5EQ; Sort Code: 50 - 30 -10; Account Number: 03412512.</p>
 <p>Requests for application forms, and all other enquiries, should be addressed to:</p>
 <p>
     PLKRA Honorary Secretary<br>
