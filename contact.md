@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact Us
+title: Contact us
 ---
 
 <p>Requests for application forms, and all other enquiries, should be addressed to:</p>
