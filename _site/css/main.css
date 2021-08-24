@@ -14,7 +14,7 @@ html, body, h1, h2, h3, h4, h5, h6, p, ul, ol, li, img {
 
 /*- Base color -*/
 /*- Base settings -*/
-h2 {
+h1, h2, h3, h4, h5, h6 {
   color: #b01715; }
 
 html {
@@ -25,9 +25,10 @@ html {
       font-size: 18px; } }
 
 /*- Link -*/
+#nav a {
+  text-decoration: none; }
+
 a {
-  color: black;
-  text-decoration: none;
   font-weight: 700; }
   a:hover, a:focus {
     color: #010101; }
@@ -322,7 +323,7 @@ html, body {
 #container {
   margin: 0 auto;
   max-width: 730px;
-  padding: 0 1.5rem; }
+  padding: 1rem 1.5rem; }
 
 #header {
   background-color: #abac9e;
@@ -732,7 +733,8 @@ footer {
 
 .committee-header {
   font-weight: bold;
-  margin-top: 30px; }
+  margin-top: 30px;
+  color: #b01715; }
 
 .clearfix::after {
   content: "";

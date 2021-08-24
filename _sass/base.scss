@@ -29,9 +29,10 @@ $other-red: #b01715;
 /*- Base settings -*/
 
 
-h2 {
+h1, h2, h3, h4, h5, h6 {
     color: $other-red;
 }
+
 html {
 	font-size: 16px;
 	@media (min-width: 940px) {
@@ -42,9 +43,10 @@ html {
 
 
 /*- Link -*/
-a {
-	color: black;
+#nav a {
 	text-decoration: none;
+}
+a {
 	font-weight: 700;
 	&:hover,
 	&:focus {
