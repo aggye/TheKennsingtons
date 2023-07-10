@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Membership
+title: Newletters
 ---
 
 <p>Membership of the Association is open to all former ‘Kensingtons’, those currently serving in 31 (Mx Yeo and PLK) Signal Squadron, and those who served in the former: 41 (Princess Louise’s Kensington) Signal Squadron (Volunteers), 47 (Middlesex Yeomanry) Signal Squadron (Volunteers), 31st (Greater London) Signal Regiment (V).Family members of past ‘Kensingtons’ and next of kin are welcomed to join as ‘Friends of The Kensingtons’</p>
